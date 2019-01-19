@@ -1,6 +1,6 @@
 # Austin J. Waldron
 
-* [LinkedIn] (www.linkedin.com/in/austin-waldron-ozzycodes) Profile
+* [LinkedIn](www.linkedin.com/in/austin-waldron-ozzycodes) Profile
 
 ### Professional Skills
 
@@ -14,7 +14,7 @@
 * Software testing, debugging, and program development.
 * Fluent on Linux, macOS, and Windows 7/10.
 * Notable languages:
-*..* C programming, Python, Java, Ruby(including MariaDB, SQLite3, MongoDB frameworks)
+  * C programming, Python, Java, Ruby(including MariaDB, SQLite3, MongoDB frameworks)
 
 ### Education
 
