@@ -22,10 +22,13 @@
 * B.S., Massachusetts Maritime Academy, International Business - 2013.
 
 ### Business Projects
+
 * Stood-up a start-up company's database system and automated reporting system
 * Created plans for managing customer freight in logistics industry with a Transportation Management System (TMS); worked with third party EDI and API contractors for a 'live' look at customers freight.
 
 ### Personal Projects
+
 * Created a malloc function library similar to that built into Linux packages
 * Recreated a 'cat' function also a popular command within the Linux terminal
 * Testing Suit for the DMTCP coordinator -> used to stress-test the PID namespacing implementation
+* Created interactive blog by adding the Bottle Python framework to MongoDB  - Blog site stores its data on a MongoDB dataset, while the Bottle framework is used for the interface and logic of the website.
