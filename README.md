@@ -4,10 +4,12 @@
 
 ### Professional Skills
 
-* Leadership.
-* Project management.
-* Data analytics.
-* Process improvement.
+* Leadership
+* Project management
+* Data analytics
+* Data statistics
+* Data minging
+* Process improvement
 
 ### Tech Skills
 
@@ -26,6 +28,7 @@ Notable database experience:
 
 ### Business Projects
 
+* Created an internal intranet for a Company's employees to search for specific information regarding their contracts with agents in the Transportation industry.
 * Stood-up a start-up company's database system and automated reporting system
 * Created plans for managing customer freight in logistics industry with a Transportation Management System (TMS); worked with third party EDI and API contractors for a 'live' look at customers freight
 * Developed an employer's	internal intranet for operational purposes available to necessary employees, intranet included:
