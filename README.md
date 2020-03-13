@@ -26,6 +26,24 @@ Notable database experience:
 * M.C.S., Northeastern University, Computer Science - 2017 - 2018
 * B.S., Massachusetts Maritime Academy, International Business - 2013
 
+### Professional Certificates
+
+<ol>
+<li><strong>IBM Data Science Professional Certificate</strong></li>
+<ol>
+<li>*[What is Data Science?](https://coursera.org/share/2ea8dacaa378353be7dc3f8bf9a32924)*</li>
+<li>*[Open Source tools for Data Science](https://coursera.org/share/a247949aa63c5b66952fac4a5cc0dc8d)*</li>
+<li>*[Data Science Methodology]*</li>
+<li>*[Python for Data Science and AI]*</li>
+<li>*[Databases and SQL for Data Science]*</li>
+<li>*[Data Analysis with Pyhton]*</li>
+<li>*[Data Visualization with Python]*</li>
+<li>*[Machine Learning with Python]*</li>
+<li>*[Applied Data Science Capstone]*</li>
+</ol>
+</ol>
+
+
 ### Business Projects
 
 * Created an internal intranet for a Company's employees to search for specific information regarding their contracts with agents in the Transportation industry.
