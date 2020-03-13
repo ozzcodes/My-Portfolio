@@ -8,7 +8,7 @@
 * Project management
 * Data analytics
 * Data statistics
-* Data minging
+* Data mining
 * Process improvement
 
 ### Tech Skills
