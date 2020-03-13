@@ -31,15 +31,15 @@ Notable database experience:
 <ol>
 <li><strong>IBM Data Science Professional Certificate</strong></li>
 <ol>
-<li>*[What is Data Science?](https://coursera.org/share/2ea8dacaa378353be7dc3f8bf9a32924)*</li>
-<li>*[Open Source tools for Data Science](https://coursera.org/share/a247949aa63c5b66952fac4a5cc0dc8d)*</li>
-<li>*[Data Science Methodology]*</li>
-<li>*[Python for Data Science and AI]*</li>
-<li>*[Databases and SQL for Data Science]*</li>
-<li>*[Data Analysis with Pyhton]*</li>
-<li>*[Data Visualization with Python]*</li>
-<li>*[Machine Learning with Python]*</li>
-<li>*[Applied Data Science Capstone]*</li>
+<a href="https://coursera.org/share/2ea8dacaa378353be7dc3f8bf9a32924"><li>What is Data Science?</li></a>
+<a href="https://coursera.org/share/a247949aa63c5b66952fac4a5cc0dc8d"><li>Open Source tools for Data Science</li></a>
+<li>Data Science Methodology</li>
+<li>Python for Data Science and AI</li>
+<li>Databases and SQL for Data Science</li>
+<li>Data Analysis with Pyhton</li>
+<li>Data Visualization with Python</li>
+<li>Machine Learning with Python</li>
+<li>Applied Data Science Capstone</li>
 </ol>
 </ol>
 
