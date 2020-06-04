@@ -29,8 +29,8 @@
 
 ### Professional Certificates
 
-<li>ong>Introduction to Data Science<strong><\li>
- <a href="https://coursera.org/share/be9f41d402cf2ef9907062fa79b5fd00"><li>Four couurse Introduction<\li><\a>
+<li><strong>Introduction to Data Science</strong></li>
+ <a href="https://coursera.org/share/be9f41d402cf2ef9907062fa79b5fd00"><li>Four Course Introduction</li></a>
 
 <ol>
 <li><strong>IBM Data Science Professional Certificate</strong></li>
@@ -40,7 +40,7 @@
 <li>Data Science Methodology</li>
 <li>Python for Data Science and AI</li>
 <li>Databases and SQL for Data Science</li>
-<li>Data Analysis with Pyhton</li>
+<li>Data Analysis with Python</li>
 <li>Data Visualization with Python</li>
 <li>Machine Learning with Python</li>
 <li>Applied Data Science Capstone</li>
