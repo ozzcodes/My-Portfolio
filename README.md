@@ -29,7 +29,7 @@
 
 ### Professional Certificates
 <ol>
-<li><string>Introduction to Data Science</strong></li>
+<li><strong>Introduction to Data Science</strong></li>
  <a href="https://coursera.org/share/be9f41d402cf2ef9907062fa79b5fd00"><li>Four Course Introduction</li></a>
  <ol>
 
