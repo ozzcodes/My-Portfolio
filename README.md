@@ -47,8 +47,8 @@
 <a href="https://coursera.org/share/4328f2d827862a82320f28230f18cb31"><li>Data Science Methodology</li></a>
 <a href="https://coursera.org/share/03103e21ada4c9c12973543de0ffe96d"><li>Python for Data Science and AI</li></a>
 <a href="https://coursera.org/share/a434f333384a9eff01fb1e46d9034664"><li>Databases and SQL for Data Science</li></a>
-<li>Data Analysis with Python</li>
-<li>Data Visualization with Python</li>
+<a href="https://coursera.org/share/107bffbf13f0daa18e8d68b40fe3d1f5"><li>Data Analysis with Python</li></a>
+<a href="https://coursera.org/share/f18a91f8b349e7833eede505887fa315"><li>Data Visualization with Python</li></a>
 <li>Machine Learning with Python</li>
 <li>Applied Data Science Capstone</li>
 </ol>
