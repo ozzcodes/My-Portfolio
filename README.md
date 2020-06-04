@@ -44,9 +44,9 @@
 <ol>
 <a href="https://coursera.org/share/2ea8dacaa378353be7dc3f8bf9a32924"><li>What is Data Science?</li></a>
 <a href="https://coursera.org/share/a247949aa63c5b66952fac4a5cc0dc8d"><li>Open Source tools for Data Science</li></a>
-<li>Data Science Methodology</li>
-<li>Python for Data Science and AI</li>
-<li>Databases and SQL for Data Science</li>
+<a href="https://coursera.org/share/4328f2d827862a82320f28230f18cb31"><li>Data Science Methodology</li></a>
+<a href="https://coursera.org/share/03103e21ada4c9c12973543de0ffe96d"><li>Python for Data Science and AI</li></a>
+<a href="https://coursera.org/share/a434f333384a9eff01fb1e46d9034664"><li>Databases and SQL for Data Science</li></a>
 <li>Data Analysis with Python</li>
 <li>Data Visualization with Python</li>
 <li>Machine Learning with Python</li>
