@@ -9,7 +9,8 @@
 * Data analytics
 * Data statistics
 * Data mining
-* Process improvement
+* Process improvement and automation
+* Database configuration and Queries
 
 ### Tech Skills
 
@@ -18,7 +19,7 @@
 * Git, Bash, Script, VBA, Web-development
 * Notable languages:
   * Python, Java, C programming, HTML5, CSS
-Notable database experience:
+* Notable database experience:
   * PostgreSQL, MySQL, MariaDB, SQLite3, MongoDB
 
 ### Education
@@ -27,6 +28,9 @@ Notable database experience:
 * B.S., Massachusetts Maritime Academy, International Business - 2013
 
 ### Professional Certificates
+
+<li>ong>Introduction to Data Science<strong><\li>
+ <a href="https://coursera.org/share/be9f41d402cf2ef9907062fa79b5fd00"><li>Four couurse Introduction<\li><\a>
 
 <ol>
 <li><strong>IBM Data Science Professional Certificate</strong></li>
