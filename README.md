@@ -27,12 +27,15 @@
 * M.C.S., Northeastern University, Computer Science - 2017 - 2018
 * B.S., Massachusetts Maritime Academy, International Business - 2013
 
-### Professional Certificates
+
+### Intro to Data Science Certificate
+
 <ol>
 <li><strong>Introduction to Data Science</strong></li>
 <ol>
  <a href="https://coursera.org/share/be9f41d402cf2ef9907062fa79b5fd00"><li>Four Course Introduction</li></a>
 
+### Professional Certificates
 
 <ol>
 <li><strong>IBM Data Science Professional Certificate</strong></li>
