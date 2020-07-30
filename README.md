@@ -40,7 +40,7 @@
 ### Professional Certificates
 
 <ol>
-<li><strong>IBM Data Science Professional Certificate</strong></li>
+<a href="https://coursera.org/share/be50745fcedae63a96f8e5e8be0c9736"><li><strong>IBM Data Science Professional Certificate</strong></li></a>
 <ol>
 <a href="https://coursera.org/share/2ea8dacaa378353be7dc3f8bf9a32924"><li>What is Data Science?</li></a>
 <a href="https://coursera.org/share/a247949aa63c5b66952fac4a5cc0dc8d"><li>Open Source tools for Data Science</li></a>
