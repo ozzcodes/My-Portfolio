@@ -49,8 +49,8 @@
 <a href="https://coursera.org/share/a434f333384a9eff01fb1e46d9034664"><li>Databases and SQL for Data Science</li></a>
 <a href="https://coursera.org/share/107bffbf13f0daa18e8d68b40fe3d1f5"><li>Data Analysis with Python</li></a>
 <a href="https://coursera.org/share/f18a91f8b349e7833eede505887fa315"><li>Data Visualization with Python</li></a>
-<li>Machine Learning with Python</li>
-<li>Applied Data Science Capstone</li>
+<a href="https://coursera.org/share/005ce2d6687020ef0c5c053b0c98fbaf"><li>Machine Learning with Python</li></a>
+<a href="https://coursera.org/share/7e99490d2280ca4d2c23eeee2dd3ab0d"><li>Applied Data Science Capstone</li></a>
 </ol>
 </ol>
 
