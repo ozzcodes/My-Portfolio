@@ -7,20 +7,20 @@
 * Leadership
 * Project management
 * Data analytics
-* Data statistics
 * Data mining
+* Machine Learning with Python
 * Process improvement and automation
-* Database configuration and Queries
+* Database configuration and advanced querying
 
 ### Tech Skills
 
 * Software testing, debugging, program automation and program development
-* Fluent on Linux, macOS, and Windows.
+* Fluent on Linux and Windows.
 * Git, Bash, Script, VBA, Web-development
 * Notable languages:
   * Python, Java, C programming, HTML5, CSS
 * Notable database experience:
-  * PostgreSQL, MySQL, MariaDB, SQLite3, MongoDB
+  * PostgreSQL, MySQL, MariaDB, SQLite3, MongoDB, IBM db2
 
 ### Education
 
@@ -71,5 +71,5 @@
 * Created a malloc function library similar to that built into Linux packages
 * Recreated a 'cat' function also a popular command within the Linux terminal
 * Testing Suit for the DMTCP coordinator -> used to stress-test the PID name spacing implementation
-* Created interactive blog by adding the Bottle Python framework to MongoDB  - Blog site stores its data on a MongoDB dataset, while the Bottle framework is used for the interface and logic of the website
+* Created interactive blog by adding the Bottle Python framework to MongoDB  - Blog site stores its data on a MongoDB dataset, while the Bottle framework is used for the interface and the overall logic of the website
 * Created multiple game replica's using programming languages such as Python and Racket
