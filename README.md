@@ -1,6 +1,6 @@
 # Austin J. Waldron
 
-* [LinkedIn](https://www.linkedin.com/in/austin-waldron-ozzycodes) Profile
+* [LinkedIn](https://www.linkedin.com/in/austin-waldron) Profile
 
 ### Professional Skills
 
