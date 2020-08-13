@@ -68,6 +68,11 @@
 
 ### Personal Projects
 
+* Utilizing Python and its scientific libraries, I created an analysis for suggesting a new bar location in Boston, MA.
+   * Analyzed location data by webscraping Boston neighborhood information along with utilizing FourSquare's API in order to reference
+     the Boston location data and local businesses.
+   * I utilized tools such as folium, Google Geocoding API, FourSquare API, k-means clustering algorithm, bar-charts, pandas, numpy, shapely (to name a few).
+   * I published my analysis and findings on Medium.com, you may view the link <a href="https://medium.com/@ajwaldro/analyzing-location-data-for-suggesting-a-bar-location-data-science-with-python-760ea871f78f?source=friends_link&sk=6d3d41c5f08d49db6926aac515b12e92"><li>here</li></a>
 * Created a malloc function library similar to that built into Linux packages
 * Recreated a 'cat' function also a popular command within the Linux terminal
 * Testing Suit for the DMTCP coordinator -> used to stress-test the PID name spacing implementation
