@@ -21,6 +21,8 @@
   * Python, Java, C programming, HTML5, CSS
 * Notable database experience:
   * PostgreSQL, MySQL, MariaDB, SQLite3, MongoDB, IBM db2
+* Visual Data Reporting
+  * Python Dashboards (Bokeh, Matplotlib, plotly, Seaborn), Microsoft Power BI, Tableau
 
 ### Education
 
