@@ -59,10 +59,10 @@
 
 ### Business Projects
 
-* Created an internal intranet for a Company's employees to search for specific information regarding their contracts with agents in the Transportation industry.
-* Stood-up a start-up company's database system and automated reporting system
+* Stood-up a start-up company's database system and automated reporting system. Converted the initial data from MS Excel files and MS Access databases into a more dynamic and efficient database.
+  * Used ETL pipelines to configure the datasets into a centralized location using Python and SQL. 
 * Created plans for managing customer freight in logistics industry with a Transportation Management System (TMS); worked with third party EDI and API contractors for a 'live' look at customers freight
-* Developed an employer's	internal intranet for operational purposes available to necessary employees, intranet included:
+* Developed an employer's intranet for operational purposes available to necessary employees, intranet included:
   * Company customer's along with all their contact details and lead point of reference
   * Assigned sales personnel to specific customers for references along with all business details
 * Developed proprietary website for customers to log-on and view current market rates for imported goods into the US, with the ability to compare employers capacity and rate availability with their current rates
@@ -80,3 +80,13 @@
 * Testing Suit for the DMTCP coordinator -> used to stress-test the PID name spacing implementation
 * Created interactive blog by adding the Bottle Python framework to MongoDB  - Blog site stores its data on a MongoDB dataset, while the Bottle framework is used for the interface and the overall logic of the website
 * Created multiple game replica's using programming languages such as Python and Racket
+
+### Hobbyies and Non-related Career Projects/ License's
+
+##### I enjoy building and creating, whether it be a program or a physical object
+* I built and programmed multiple Drone's for different functionality
+  * From racing drone's with ability to hit 100+ mph to heavylift drones capable of lifting large payloads
+
+* Obtained my FAA Part 107 License for sUAS operations
+  * Completed Aquiline Drone's Drone on Demand (DoD) training program
+  * Currently building a website and foundation for my LLC (DroneLink LLC), housed under Aquiline Drone.
