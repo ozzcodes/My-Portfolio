@@ -68,6 +68,7 @@
 * Developed proprietary website for customers to log-on and view current market rates for imported goods into the US, with the ability to compare employers capacity and rate availability with their current rates
   * Website was developed using Python's Django web-framework
 
+
 ### Personal Projects
 
 * Utilizing Python and its scientific libraries, I created an analysis for suggesting a new bar location in Boston, MA.
@@ -81,7 +82,8 @@
 * Created interactive blog by adding the Bottle Python framework to MongoDB  - Blog site stores its data on a MongoDB dataset, while the Bottle framework is used for the interface and the overall logic of the website
 * Created multiple game replica's using programming languages such as Python and Racket
 
-### Hobbyies and Non-related Career Projects/ License's
+
+### Hobbies and Non-related Career Projects/ License's
 
 ##### I enjoy building and creating, whether it be a program or a physical object
 * I built and programmed multiple Drone's for different functionality
